@@ -52,7 +52,7 @@ In Settings file.
 
 ![Screenshot](https://i.imgur.com/Osixfro.png)
 
-- Create a new folder within the previous one created and make the name just numbers (1 - 999..), so that they are identifiable]
+- Create a new folder within the previous one created and make the name just numbers (1 - 999..), so that they are identifiable
 
 ![Screenshot 3](https://i.imgur.com/jYhcimS.png)
 
