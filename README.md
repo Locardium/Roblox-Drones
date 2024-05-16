@@ -36,9 +36,11 @@ In Settings file.
 
 #### With one group
 - Create new folder in folder `figures` and put a custom name.
+
 ![Screenshot](https://i.imgur.com/Osixfro.png)
 
 - Open folder `drone` and copy `Drone-Template` to new folder.
+
 ![Screenshot 2](https://i.imgur.com/QTkMQrC.png)
 
 - Copy `Drone-Template` as many times as necessary to create your figure.
@@ -47,12 +49,15 @@ In Settings file.
 
 #### With various groups
 - Create new folder in folder `figures` and put a custom name.
+
 ![Screenshot](https://i.imgur.com/Osixfro.png)
 
-- Create a new folder within the previous one created and make the name just numbers (1 - 999..), so that they are identifiable
+- Create a new folder within the previous one created and make the name just numbers (1 - 999..), so that they are identifiable]
+
 ![Screenshot 3](https://i.imgur.com/jYhcimS.png)
 
 - Open folder `drone` and copy `Drone-Template` to new folder.
+
 ![Screenshot 4](https://i.imgur.com/JNNLgTq.png)
 
 - Copy `Drone-Template` as many times as necessary to create your figure.
