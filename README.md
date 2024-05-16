@@ -16,7 +16,7 @@ I found two bugs
 - When you use "joint" it may not return to the initial position or rotate from a pivot that is not the exact center.
 ## Installation
 
-- Download Release version and add this to your game.
+- Download [Release](https://github.com/Locardium/Roblox-Drones/releases/tag/2.0) section and add this item to your game.
 - Put the folder in "workspace" and configure the "Settings" file.
 - Done.
 
