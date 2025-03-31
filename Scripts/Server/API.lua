@@ -32,19 +32,15 @@ function API.ChangeFigure(figureName)
 	
 	Globals.Figure = figureName
 	
-	local count = 0
+	local totalDrones = 0
 	for k,v in pairs(Globals.Figures[figureName]) do
 		if (v.CFrame ~= nil) then
-			count = #Globals.Figures[figureName]
+			totalDrones = #Globals.Figures[figureName]
 			break
-		else
-			for k2,v2 in pairs(v) do
-				count = count + 1
-			end
 		end
+		totalDrones += #v
 	end
-	
-	Globals.Drones = count
+	Globals.Drones = totalDrones
 
 	RemoteEvent:FireAllClients("ChangeFigure", figureName, false)
 end
